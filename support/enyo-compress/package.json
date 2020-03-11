@@ -15,7 +15,7 @@
     "colors": "0",
     "uglify-js": "1",
     "poolr": "0",
-    "mkdirp": "0",
+    "mkdirp": "1.0.0",
     "stepup": "0",
     "rimraf": "1"
   },
